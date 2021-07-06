@@ -1,9 +1,8 @@
 {
   "title": "CineFlix",
   "description": "Movieslist Json",
-  "movies": 
-  [
-    { "id": "06072021", "name": "Star Wars", "releaseYear": "2021", "Genres": "fantasy", "Poster": "https://images-na.ssl-images-amazon.com/images/I/91zh7rLwI3L._SL1500_.jpg" },
-    { "id": "06072021", "name": "Jurasic Park", "releaseYear": "2020", "Genres": "fantasy", "Poster": "https://images-na.ssl-images-amazon.com/images/I/91zh7rLwI3L._SL1500_.jpg" },
+  "movies": [
+    { "id": "0607202102", "name": "Star Wars", "releaseYear": "2021", "Genres": "fantasy", "Poster": "https://images-na.ssl-images-amazon.com/images/I/91zh7rLwI3L._SL1500_.jpg" },
+    { "id": "0607202101", "name": "Jurasic Park", "releaseYear": "2020", "Genres": "fantasy", "Poster": "https://images-na.ssl-images-amazon.com/images/I/91zh7rLwI3L._SL1500_.jpg" },
   ]
 }
