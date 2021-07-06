@@ -1,8 +1,8 @@
 {
   "title": "CineFlix",
   "description": "Movieslist Json",
-  "movies": [
-    { "id": "06072021", "name": "Star Wars", "releaseYear": "2021", "Genres": "fantasy", "Poster": "https://images-na.ssl-images-amazon.com/images/I/91zh7rLwI3L._SL1500_.jpg" },
-    { "id": "06072021", "name": "Back to the Future", "releaseYear": "2020", "Genres": "Adventure", "Poster": "https://www.getdigital.eu/web/getdigital/gfx/products/__generated__resized/1100x1100/18736BTTF_poster_main.jpg"  },    
+  "movies": 
+  [
+    { "id": "06072021", "name": "Star Wars", "releaseYear": "2021", "Genres": "fantasy", "Poster": "https://images-na.ssl-images-amazon.com/images/I/91zh7rLwI3L._SL1500_.jpg" }
   ]
 }
