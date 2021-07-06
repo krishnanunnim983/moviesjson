@@ -3,6 +3,6 @@
   "description": "Movieslist Json",
     "movies": [
     { "id": "0607202101", "title": "Star Wars", "releaseYear": "1977", "poster": "https://images-na.ssl-images-amazon.com/images/I/A1wnJQFI82L._SY879_.jpg" },
-    { "id": "0607202102", "title": "Back to the Future", "releaseYear": "1985", "poster": "https://www.getdigital.eu/web/getdigital/gfx/products/__generated__resized/1100x1100/18736BTTF_poster_main.jpg" },   
+    { "id": "0607202102", "title": "Back to the Future", "releaseYear": "1985", "poster": "https://www.getdigital.eu/web/getdigital/gfx/products/__generated__resized/1100x1100/18736BTTF_poster_main.jpg" }
   ]
 }
