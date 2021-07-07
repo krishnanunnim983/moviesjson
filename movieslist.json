@@ -1,10 +1,60 @@
-{
-  "title": "Movies List",
-  "description": "",
-  "movies": [
-    { "id": "202101", "title": "Star Wars", "releaseYear": "1977", "Poster":"https://miro.medium.com/max/1400/0*Tsd6bDqynxJN1daI" },
-    { "id": "202102", "title": "Back to the Future", "releaseYear": "1985", "Poster":"https://images-na.ssl-images-amazon.com/images/I/A1wnJQFI82L._SY879_.jpg" },
-     { "id": "202103", "title": "Star Wars", "releaseYear": "1977", "Poster":"https://miro.medium.com/max/1400/0*Tsd6bDqynxJN1daI" },
-    { "id": "202104", "title": "Back to the Future", "releaseYear": "1985", "Poster":"https://images-na.ssl-images-amazon.com/images/I/A1wnJQFI82L._SY879_.jpg" }
+[
+    {      
+      "id": 1,
+      "title": "delectus aut autem",
+       "poster" : "https://reactnative.dev/img/tiny_logo.png"
+    },
+    {     
+      "id": 2,
+      "title": "quis ut nam facilis et officia qui",
+      "poster" : "https://reactnative.dev/img/tiny_logo.png"
+    },
+    {
+    
+      "id": 3,
+      "title": "quis ut nam facilis et officia qui",
+      "poster" : "https://reactnative.dev/img/tiny_logo.png"
+    },
+    {
+    
+      "id": 4,
+      "title": "quis ut nam facilis et officia qui",
+      "poster" : "https://reactnative.dev/img/tiny_logo.png"
+    },
+    {
+    
+      "id": 5,
+      "title": "quis ut nam facilis et officia qui",
+      "poster" : "https://reactnative.dev/img/tiny_logo.png"
+    },
+    {
+    
+      "id": 6,
+      "title": "quis ut nam facilis et officia qui",
+      "poster" : "https://reactnative.dev/img/tiny_logo.png"
+    },
+    {
+    
+      "id": 7,
+      "title": "quis ut nam facilis et officia qui",
+      "poster" : "https://reactnative.dev/img/tiny_logo.png"
+    },
+    {
+    
+      "id": 8,
+      "title": "quis ut nam facilis et officia qui",
+      "poster" : "https://reactnative.dev/img/tiny_logo.png"
+    },
+    {
+    
+      "id": 9,
+      "title": "quis ut nam facilis et officia qui",
+      "poster" : "https://reactnative.dev/img/tiny_logo.png"
+    },
+    {
+    
+      "id": 10,
+      "title": "quis ut nam facilis et officia qui",
+      "poster" : "https://reactnative.dev/img/tiny_logo.png"
+    }
   ]
-}
