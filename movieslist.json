@@ -6,22 +6,5 @@
     "imdb" : "6.5",
      "download": "http://www.google.com",
      "poster" : "https://cdn.europosters.eu/image/1300/posters/jurassic-park-i75969.jpg"
-  },
-  {     
-    "id": "0707202102",
-    "title": "Predator",
-    "genre": "thriller",
-    "imdb" : "6.5",
-     "download": "http://www.google.com",
-    "poster" : "https://cdn.shopify.com/s/files/1/0969/9128/products/Predator-ArnoldSchwarzenegger-HollywoodSciFiActionMovieFanArtGraphicPoster_04a1c614-bc54-4b0d-b878-9a7fc48bd8eb.jpg?v=1616064913"
-  },
-  {
-  
-    "id": "0707202103",
-    "title": "Terminator",
-    "genre": "thriller",
-    "imdb" : "6.5",
-     "download": "http://www.google.com",
-    "poster" : "https://i.pinimg.com/originals/18/df/c2/18dfc2e10aaf136f50e90b4636bea0e5.jpg"
   }
 ]
