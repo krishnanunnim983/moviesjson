@@ -86,5 +86,93 @@
     "imdb" : "6.5",
      "download": "http://www.google.com",
     "poster" : "https://images-na.ssl-images-amazon.com/images/I/A1wnJQFI82L._SY879_.jpg"
+  },
+  {      
+    "id": "0707202101",
+    "title": "Jurassic Park",
+    "genre": "thriller",
+    "imdb" : "6.5",
+     "download": "http://www.google.com",
+     "poster" : "https://cdn.europosters.eu/image/1300/posters/jurassic-park-i75969.jpg"
+  },
+  {     
+    "id": "0707202102",
+    "title": "Predator",
+    "genre": "thriller",
+    "imdb" : "6.5",
+     "download": "http://www.google.com",
+    "poster" : "https://cdn.shopify.com/s/files/1/0969/9128/products/Predator-ArnoldSchwarzenegger-HollywoodSciFiActionMovieFanArtGraphicPoster_04a1c614-bc54-4b0d-b878-9a7fc48bd8eb.jpg?v=1616064913"
+  },
+  {
+  
+    "id": "0707202103",
+    "title": "Terminator",
+    "genre": "thriller",
+    "imdb" : "6.5",
+     "download": "http://www.google.com",
+    "poster" : "https://i.pinimg.com/originals/18/df/c2/18dfc2e10aaf136f50e90b4636bea0e5.jpg"
+  },
+  {
+  
+    "id": "0707202104",
+    "title": "Anaconda",
+    "genre": "thriller",
+    "imdb" : "6.5",
+     "download": "http://www.google.com",
+    "poster" : "https://m.media-amazon.com/images/M/MV5BZDc4ODcyNWMtMzI2Zi00YzcwLWE4ZTUtYWM3OWI1MTgwYTc1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg"
+  },
+  {
+  
+    "id": "0707202105",
+    "title": "The Nun",
+    "genre": "horror",
+    "imdb" : "6.5",
+     "download": "http://www.google.com",
+    "poster" : "https://talenthouse-res.cloudinary.com/image/upload/c_limit,f_auto,fl_progressive,h_1280,w_1280/v1532551662/user-628108/submissions/coq8grlyhqrfeohmoyow.jpg"
+  },
+  {
+  
+    "id": "0707202106",
+    "title": "Annabelle ",
+    "genre": "horror",
+    "imdb" : "6.5",
+     "download": "http://www.google.com",
+    "poster" : "https://m.media-amazon.com/images/M/MV5BOTQwZmQyYzEtODk5ZC00OTY3LWExMjAtYzRjNWFhNGM3MzBlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg"
+  },
+  {
+  
+    "id": "0707202107",
+    "title": "Lucy",
+    "genre": "thriller",
+    "imdb" : "6.5",
+     "download": "http://www.google.com",
+    "poster" : "https://i.pinimg.com/originals/bf/e9/42/bfe942ba4cf56e3a2e758331827d8a8e.jpg"
+  },
+  {
+  
+    "id": "0707202108",
+    "title": "Bahubali",
+    "genre": "thriller",
+    "imdb" : "6.5",
+     "download": "http://www.google.com",
+    "poster" : "https://i.pinimg.com/564x/76/8a/7c/768a7cbebd1aae72dcfce56f8df11d06.jpg"
+  },
+  {
+  
+    "id": "0707202109",
+    "title": "Tom and Jerry",
+    "genre": "thriller",
+    "imdb" : "6.5",
+     "download": "http://www.google.com",
+    "poster" : "https://m.media-amazon.com/images/M/MV5BYzE3ODhiNzAtOWY4MS00NTdiLThmNDctNDM4NjRiNGFmYjI1XkEyXkFqcGdeQXVyMTI2ODM1ODUw._V1_.jpg"
+  },
+  {
+  
+    "id": "0707202110",
+    "title": "Star Wars",
+    "genre": "thriller",
+    "imdb" : "6.5",
+     "download": "http://www.google.com",
+    "poster" : "https://images-na.ssl-images-amazon.com/images/I/A1wnJQFI82L._SY879_.jpg"
   }
 ]
