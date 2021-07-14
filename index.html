@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>CineFlix Admin</title>
+  </head>
+  <body>
+    <section class="contact-section">
+      <form class="contact">
+        <h2>CineFlix Admin</h2>
+        <input
+          placeholder="Movie Name"
+          class="title"
+          type="text"
+          id="title"
+          required
+        />
+        <input
+          placeholder="Poster"
+          class="poster"
+          type="text"
+          id="poster"
+          required
+        />
+        <input
+        placeholder="Genre"
+        class="genre"
+        type="text"
+        id="genre"
+        required
+      />
+        <input
+        placeholder="Imdb"
+        class="imdb"
+        type="number"
+        id="imdb"
+        required
+      />
+      <input
+      placeholder="Download url"
+      class="download"
+      type="text"
+      id="download"
+      required
+    />
+        <button class="btn" type="submit">Update Movie</button>
+
+      
+      </form>
+    </section>
+    <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
