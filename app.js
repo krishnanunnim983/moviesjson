@@ -18,6 +18,7 @@ var firebaseConfig = {
   let Myimdb = document.querySelector(".imdb");
   let Mydownload = document.querySelector(".download");
   let Mygenre = document.querySelector(".genre");
+  let Mydate = document.querySelector(".date");
 
 
   
@@ -31,15 +32,17 @@ submitBtn.addEventListener("click", function (e) {
     let imdb = Myimdb.value;
     let download = Mydownload.value;
     let genre = Mygenre.value;
+    let date = Mydate.value;  
 
     e.preventDefault();
-    db.doc()
+    db.doc(date)
       .set({
         title: title,
         poster: poster,
         imdb: imdb,
         download: download,
         genre: genre,
+        date: date,
       })
       .then(function () {
         console.log("Movie Updated");
